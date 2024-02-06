@@ -31,21 +31,8 @@ Discover the following features implemented with meticulous attention to detail:
 - **React SWR Data Fetching**: Utilize SWR for efficient data fetching, ensuring real-time updates. 
 - **Zustand State Management**: Manage application state with Zustand for a streamlined development experience.
 
-## Deployment 🚀
-
-This project is live on Vercel, providing you with a real-time experience. Visit the **[Live Demo](https://netflix-clone-vladdg.vercel.app/)** to explore the application.
-
-## How to Run Locally 🏠
-
-Follow these steps to run the project on your local machine:
-
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Set up your environment variables.
-4. Run the development server with `npm run dev`.
-
 ## Feedback and Support 🤝
 
 Your feedback is crucial! If you have any questions, suggestions, or issues, please feel free to reach out. I'm dedicated to continuous improvement and would love to hear your thoughts.
 
-Thank you for exploring my Netflix Clone project. Happy coding! 🎉🍿
+Thank you for exploring my Netflix Clone project. 🎉🍿
