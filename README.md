@@ -33,7 +33,7 @@ Discover the following features implemented with meticulous attention to detail:
 
 ## Deployment 🚀
 
-This project is live on Vercel, providing you with a real-time experience. Visit the **[Live Demo](netflix-clone-vladdg.vercel.app)** to explore the application.
+This project is live on Vercel, providing you with a real-time experience. Visit the **[Live Demo](https://netflix-clone-vladdg.vercel.app/)** to explore the application.
 
 ## How to Run Locally 🏠
 
