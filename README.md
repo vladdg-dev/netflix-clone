@@ -28,7 +28,7 @@ Discover the following features implemented with meticulous attention to detail:
 - **Cookie-Based Authentication**: Secure user authentication with cookies.
 - **API and Controllers Creation**: Efficient handling of backend logic with well-organized API routes and controllers.
 - **TailwindCSS Effects**: Detail-oriented effects and animations for an immersive user experience.
-- **React SWR Data Fetching**: Utilize SWR for efficient data fetching, ensuring real-time updates.
+- **React SWR Data Fetching**: Utilize SWR for efficient data fetching, ensuring real-time updates. 
 - **Zustand State Management**: Manage application state with Zustand for a streamlined development experience.
 
 ## Deployment 🚀
